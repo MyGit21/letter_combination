@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="912d4a3a-0542-44ba-b50e-eb749f7bd299" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letter_combination.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hsbc/code/BaseConstant$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hsbc/code/BaseConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hsbc/code/BaseSolution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hsbc/code/NumberPhoneEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hsbc/code/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hsbc/code/TestCode.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\ZHONG\Desktop\netconf\letter_combination\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\ccssoft\configs\settings-personal.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lhR4HjMgfQRlNSeLu048zuQlYp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.30890054" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestCode">
+    <configuration name="TestCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hsbc.code.TestCode" />
+      <module name="letter_combination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsbc.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="letter_combination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsbc.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsbc.code" />
+      <option name="MAIN_CLASS_NAME" value="com.hsbc.code.TestCode" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCode" />
+        <item itemvalue="Application.TestCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="912d4a3a-0542-44ba-b50e-eb749f7bd299" name="Default Changelist" comment="" />
+      <created>1608047143764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608047143764</updated>
+      <workItem from="1608047147185" duration="1429000" />
+      <workItem from="1608089306670" duration="3449000" />
+      <workItem from="1608106817514" duration="11036000" />
+      <workItem from="1608119733682" duration="132000" />
+      <workItem from="1608119894602" duration="2131000" />
+      <workItem from="1608132191219" duration="1240000" />
+      <workItem from="1608133924002" duration="2563000" />
+    </task>
+    <task id="LOCAL-00001" summary="letterCombination">
+      <created>1608137377216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608137377216</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="letterCombination" />
+    <option name="LAST_COMMIT_MESSAGE" value="letterCombination" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1608117318427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608117318427" />
+    <state x="363" y="14" key="CommitChangelistDialog2" timestamp="1608137375956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="363" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608137375956" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1608137273956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608137273956" />
+    <state x="633" y="312" key="Github.ShareDialog" timestamp="1608137414716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="633" y="312" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1608137414716" />
+    <state width="1493" height="264" key="GridCell.Tab.0.bottom" timestamp="1608134566696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608134566696" />
+    <state width="1493" height="264" key="GridCell.Tab.0.center" timestamp="1608134566696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608134566696" />
+    <state width="1493" height="264" key="GridCell.Tab.0.left" timestamp="1608134566696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608134566696" />
+    <state width="1493" height="264" key="GridCell.Tab.0.right" timestamp="1608134566696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608134566696" />
+    <state x="171" y="91" key="SettingsEditor" timestamp="1608137241496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="171" y="91" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608137241496" />
+    <state x="540" y="136" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608119693475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="136" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1608119693475" />
+  </component>
+</project>
