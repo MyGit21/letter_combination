@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="912d4a3a-0542-44ba-b50e-eb749f7bd299" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../netconf4j/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hsbc/code/BaseSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/code/BaseSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hsbc/code/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/code/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hsbc/code/TestCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hsbc/code/TestCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +54,7 @@
     <property name="project.structure.side.proportion" value="0.30890054" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="JUnit.TestCode">
+  <component name="RunManager" selected="JUnit.TestCode.testCombinate">
     <configuration name="TestCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hsbc.code.TestCode" />
       <module name="letter_combination" />
@@ -79,8 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCode.testCombinate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="letter_combination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsbc.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsbc.code" />
+      <option name="MAIN_CLASS_NAME" value="com.hsbc.code.TestCode" />
+      <option name="METHOD_NAME" value="testCombinate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCode.testCombinate" />
         <item itemvalue="JUnit.TestCode" />
         <item itemvalue="Application.TestCode" />
       </list>
@@ -114,7 +135,8 @@
       <workItem from="1608119733682" duration="132000" />
       <workItem from="1608119894602" duration="2131000" />
       <workItem from="1608132191219" duration="1240000" />
-      <workItem from="1608133924002" duration="3170000" />
+      <workItem from="1608133924002" duration="3876000" />
+      <workItem from="1608170852963" duration="1403000" />
     </task>
     <task id="LOCAL-00001" summary="letterCombination">
       <created>1608137377216</created>
@@ -137,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608138154088</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="letterCombination">
+      <created>1608138364125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608138364125</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,45 +181,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608117318427" />
-    <state x="363" y="14" key="CommitChangelistDialog2" timestamp="1608138153268">
+    <state x="363" y="14" key="CommitChangelistDialog2" timestamp="1608138362585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="363" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608138153268" />
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1608138336855">
+    <state x="363" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608138362585" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1608174257959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608138336855" />
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608174257959" />
     <state x="633" y="312" key="Github.ShareDialog" timestamp="1608137414716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="633" y="312" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1608137414716" />
-    <state width="1493" height="264" key="GridCell.Tab.0.bottom" timestamp="1608134566696">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1608173847291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608134566696" />
-    <state width="1493" height="264" key="GridCell.Tab.0.center" timestamp="1608134566696">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608173847291" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1608173847291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608134566696" />
-    <state width="1493" height="264" key="GridCell.Tab.0.left" timestamp="1608134566696">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608173847291" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1608173847291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608134566696" />
-    <state width="1493" height="264" key="GridCell.Tab.0.right" timestamp="1608134566696">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608173847291" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1608173847291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608134566696" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608173847291" />
     <state x="171" y="91" key="SettingsEditor" timestamp="1608138257429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="171" y="91" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608138257429" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1608138178198">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1608138403799">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608138178198" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608138403799" />
     <state x="540" y="136" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608119693475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="136" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1608119693475" />
+    <state x="550" y="321" key="git4idea.ui.GitResetDialog" timestamp="1608138681992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="321" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1608138681992" />
   </component>
 </project>

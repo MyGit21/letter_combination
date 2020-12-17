@@ -21,5 +21,4 @@ public abstract class BaseSolution {
         return result;
     }
 
-
 }

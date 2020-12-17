@@ -22,7 +22,7 @@ public class TestCode {
     }
 
     @Test
-    public void testCombinate() {
+    public void testCombinate() throws Exception {
         List<String> resultList = solution.letterCombination(digits);
         if (resultList != null && resultList.size() > 0) {
             for (String str : resultList) {
