@@ -1,4 +1,4 @@
-package com.hsbc.code;
+package com.test.code;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,10 +16,9 @@ public abstract class BaseSolution {
             return result;
         }
 
-        this.digits = digits;
+        this.digits = digits.replaceAll("[0,1]", "");
         this.loopExec(0, result);
         return result;
     }
-
 
 }

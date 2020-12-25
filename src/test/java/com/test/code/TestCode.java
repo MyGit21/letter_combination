@@ -1,4 +1,4 @@
-package com.hsbc.code;
+package com.test.code;
 
 
 import org.junit.AfterClass;
@@ -9,7 +9,7 @@ import java.util.List;
 
 public class TestCode {
     static BaseSolution solution;
-    String digits = "234";
+    String digits = "23";
 
     @BeforeClass
     public static void testBeforeClass() {

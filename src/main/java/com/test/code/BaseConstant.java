@@ -1,4 +1,4 @@
-package com.hsbc.code;
+package com.test.code;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,6 +6,8 @@ import java.util.Map;
 public class BaseConstant {
 
     public static final Map<Character, String> PHONE_MAP = new HashMap<Character, String>() {{
+        put('0', "");
+        put('1', "");
         put('2', "abc");
         put('3', "def");
         put('4', "ghi");

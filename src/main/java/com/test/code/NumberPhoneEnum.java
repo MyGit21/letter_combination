@@ -1,7 +1,9 @@
-package com.hsbc.code;
+package com.test.code;
 
 public enum  NumberPhoneEnum {
 
+    NUMBER_0('0', ""),
+    NUMBER_1('1', ""),
     NUMBER_2('2', "abc"),
     NUMBER_3('3', "def"),
     NUMBER_4('4', "ghi"),

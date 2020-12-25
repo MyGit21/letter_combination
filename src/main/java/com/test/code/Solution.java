@@ -1,11 +1,8 @@
-package com.hsbc.code;
+package com.test.code;
 
 import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class Solution extends BaseSolution{
-
 
     public void loopExec(int index, List<String> letterResult) {
         //满足条件保存的字符串长度等于digits长度时，保存buffer字符串，终止loop
@@ -23,15 +20,6 @@ public class Solution extends BaseSolution{
             loopExec(index + 1, letterResult);//loop
             buffer.deleteCharAt(index);//遍历保存后删除最后一个字符
         }
-    }
-
-    public static boolean validateDigits(String digits) throws Exception {
-        Pattern p = Pattern.compile("[2-9]+");
-        Matcher m = p.matcher(digits);
-        if (!m.find()) {
-            throw new Exception("请输入2到9的数字");
-        }
-        return true;
     }
 
 
